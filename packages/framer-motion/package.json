@@ -67,6 +67,9 @@
         "framer",
         "waapi"
     ],
+    "files": [
+        "dist/**"
+    ],
     "scripts": {
         "eslint": "yarn run lint",
         "lint": "yarn eslint src/**/*.ts",
